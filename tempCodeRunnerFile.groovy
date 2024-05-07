@@ -1,0 +1,1 @@
+     credentialsId: 'GIT_CREDENTIALS_ID'
